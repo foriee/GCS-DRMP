@@ -1,6 +1,6 @@
-# iView-project
+# GCS-DRMP-UI-project
 
-This project is build for Vue.js 2 + vue-router + webpack2 + iView 3, just install and run.
+数据资源管理平台前端
 
 ## Install
 ```bush
